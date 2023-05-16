@@ -10,7 +10,7 @@ Config.Locale = 'en'
 Config.RespondsKey = "E"
 
 -- Enable if you only want to send alerts to onDuty officers
-Config.OnDutyOnly = false
+Config.OnDutyOnly = true
 
 Config.PhoneModel = 'prop_npc_phone_02'
 
