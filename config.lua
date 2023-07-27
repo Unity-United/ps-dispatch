@@ -29,7 +29,7 @@ Config.Enable.Melee = true
 Config.Enable.PlayerDowned = true
 
 -- Enable alerts when cops break the law, also prints to console.
-Config.Debug = false
+Config.Debug = true
 
 -- Changes the min and max offset for the radius
 Config.MinOffset = 1
